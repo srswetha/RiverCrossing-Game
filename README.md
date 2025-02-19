@@ -33,7 +33,7 @@ This version enhances the existing implementation by introducing **better code o
 - 5️⃣ **Lose conditions** – If left unattended, the wolf might eat the goose, or the goose might eat the beans!
 
 ---
-##🚀 Future Improvements**
+## 🚀 Future Improvements
 🔹 User Authentication – Implement a leaderboard to track top players.
 🔹 New Levels – Introduce more complex river-crossing puzzles.
 🔹 Mobile Optimization – Convert the game into an Android app.
