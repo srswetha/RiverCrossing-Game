@@ -26,14 +26,13 @@ This version enhances the existing implementation by introducing **better code o
 ---
 
 ## 🎮 How to Play
-1️⃣ **Start the game** – Run the RiverGUI.java file.
-2️⃣ **Move characters**– Click on characters to move them onto the boat.
-3️⃣ **Transport items** – Click on the boat to row it across the river.
-4️⃣ **Win the game** – Ensure all characters cross the river safely without breaking game rules.
-5️⃣ **Lose conditions** – If left unattended, the wolf might eat the goose, or the goose might eat the beans!
+- 1️⃣ **Start the game** – Run the RiverGUI.java file.
+- 2️⃣ **Move characters**– Click on characters to move them onto the boat.
+- 3️⃣ **Transport items** – Click on the boat to row it across the river.
+- 4️⃣ **Win the game** – Ensure all characters cross the river safely without breaking game rules.
+- 5️⃣ **Lose conditions** – If left unattended, the wolf might eat the goose, or the goose might eat the beans!
 
 ---
-
 ##🚀 Future Improvements**
 🔹 User Authentication – Implement a leaderboard to track top players.
 🔹 New Levels – Introduce more complex river-crossing puzzles.
